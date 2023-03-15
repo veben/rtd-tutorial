@@ -1,7 +1,7 @@
 API
 ===
 
-I love API!
+I love API first!
 
 .. autosummary::
    :toctree: generated
